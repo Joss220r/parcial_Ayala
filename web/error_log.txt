@@ -1,0 +1,6 @@
+[08-Mar-2025 22:19:07 Europe/Berlin] PHP Warning:  include(views/template): Failed to open stream: No such file or directory in C:\xampp\htdocs\parcial_Ayala\web\controllers\controller.template.php on line 8
+[08-Mar-2025 22:19:07 Europe/Berlin] PHP Warning:  include(): Failed opening 'views/template' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\parcial_Ayala\web\controllers\controller.template.php on line 8
+[08-Mar-2025 22:24:44 Europe/Berlin] PHP Warning:  include(/parcial_Ayala/web/views/template): Failed to open stream: No such file or directory in C:\xampp\htdocs\parcial_Ayala\web\controllers\controller.template.php on line 8
+[08-Mar-2025 22:24:44 Europe/Berlin] PHP Warning:  include(): Failed opening '/parcial_Ayala/web/views/template' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\parcial_Ayala\web\controllers\controller.template.php on line 8
+[08-Mar-2025 22:24:50 Europe/Berlin] PHP Warning:  include(/parcial_Ayala/web/views/template): Failed to open stream: No such file or directory in C:\xampp\htdocs\parcial_Ayala\web\controllers\controller.template.php on line 8
+[08-Mar-2025 22:24:50 Europe/Berlin] PHP Warning:  include(): Failed opening '/parcial_Ayala/web/views/template' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\parcial_Ayala\web\controllers\controller.template.php on line 8

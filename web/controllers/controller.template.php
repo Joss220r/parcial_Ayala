@@ -5,7 +5,7 @@ class TemplateController{
   //main view template
   public function index()
   {
-    include 'views/template';
+    include '/parcial_Ayala/web/views/template';
   }
 
   //main route url
